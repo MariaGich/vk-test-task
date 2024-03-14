@@ -2,7 +2,7 @@
 
 Скопируйте проект используя
 
-### `git clone ....`
+### `git clone https://github.com/MariaGich/vk-test-task.git`
 
 Установите нужные зависимости
 
